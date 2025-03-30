@@ -1,0 +1,88 @@
+main
+{
+    padding-top: 80px;
+}
+.contact
+{
+    border: solid white 3px;
+}
+.contact:hover
+{
+    border: solid #FFD991 3px;
+    color: #FFD991;
+}
+.logo-font
+{
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.name
+{
+    font-family: "Roboto", sans-serif;
+}
+.element:hover
+{
+    transition: all 1s;
+    .sp-gauche
+    {
+        transition: all 1s;
+        margin-right: 8px;
+    }
+    .sp-droite
+    {
+        transition: all 1s;
+        margin-left: 8px;
+    }
+}
+.project-title
+{
+    font-family: "Knewave", system-ui;
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+} 
+.card
+{
+    position: relative;
+    text-align: center;
+}
+.hide
+{
+    opacity: 0;
+    filter: blur(10px);
+    transform: translateX(-100%);
+    transition: all 0.8s; 
+}
+.show
+{
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
+.bloc
+{
+    padding: 80px 200px;
+    border: solid white 2px;
+}
+.ele:nth-child(2)
+{
+    transition-delay: 200ms;
+}
+.ele:nth-child(3)
+{
+    transition-delay: 400ms;
+}
+.ele:nth-child(4)
+{
+    transition-delay: 600ms;
+}
+.ele:nth-child(5)
+{
+    transition-delay: 800ms;
+}
+.ele:nth-child(6)
+{
+    transition-delay: 1000ms;
+}
