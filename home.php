@@ -60,7 +60,7 @@
         <div>
           <h4 class="flex justify-center text-[#FFD991] font-bold text-lg mt-3">Telechargez mon cv en cliquant sur l'icône ci-dessous</h4>
           <div class="flex justify-center mt-5">
-            <a download="Abdel-hadi_RANEM-CV.pdf" href="../Elements/cv.pdf" title="Some"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxUlEQVR4nO2aQUoDMRSGA4oLr9FbWDfuBMEziCsXLtQLFBWtCuJ7gxuvIHgGV67dCE26U1vRnVsV/CVtbYszZZJpJjNT80M2Jcn/vry8yTCNEEEjQfIqJD1DMaya5Cc9VpRF0AHZQozB5BvcQ2MBik+h+MU0KGsPY2DqQnFTx2QPoujEdnXzA+FB9ug4C4heBaDFS6YBZQVJ7Sej+m9mbD2sgssbZBqPxIGpqTfIXnyVzbYqvII4biJvkFjf28Y8JB1anSX9vgd67DTeqXI6maUQQBIUMjJrWwu4noOifUh+hKI7tHjFl7dbEMl7f55S36bnDMoFQjfxA5O2fHi7BjmLg1ysVw9E0Xn8IIzWfHi7BeleLULS+6hG+N6Xt/PJoGjbtj7KCSJ5Z+yptevT28lkaHMNii6h6HOsRj56v7W5VgkQtHgTir8mv/lquGij/CCS3iZDDAv/tfQgLoQAkqCQkSpvLTj8yKAVQJIUasSBEB6/BRS7K+9U/UsQ10IASVDIiAMhbC3LVfHVREo8RpppkCKFAKIG/7PLqF5oKkTvg8ZyPxbu2A/WVyY81wTSmuSjrHdRmsPMFAvQ0RCZ7qIEiWL0A4sJUZ0xRyowAAAAAElFTkSuQmCC" alt="parse-from-clipboard"></a>
+            <a download="Abdel-hadi_RANEM-CV.pdf" href="Elements/cv.pdf" title="Some"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABxUlEQVR4nO2aQUoDMRSGA4oLr9FbWDfuBMEziCsXLtQLFBWtCuJ7gxuvIHgGV67dCE26U1vRnVsV/CVtbYszZZJpJjNT80M2Jcn/vry8yTCNEEEjQfIqJD1DMaya5Cc9VpRF0AHZQozB5BvcQ2MBik+h+MU0KGsPY2DqQnFTx2QPoujEdnXzA+FB9ug4C4heBaDFS6YBZQVJ7Sej+m9mbD2sgssbZBqPxIGpqTfIXnyVzbYqvII4biJvkFjf28Y8JB1anSX9vgd67DTeqXI6maUQQBIUMjJrWwu4noOifUh+hKI7tHjFl7dbEMl7f55S36bnDMoFQjfxA5O2fHi7BjmLg1ysVw9E0Xn8IIzWfHi7BeleLULS+6hG+N6Xt/PJoGjbtj7KCSJ5Z+yptevT28lkaHMNii6h6HOsRj56v7W5VgkQtHgTir8mv/lquGij/CCS3iZDDAv/tfQgLoQAkqCQkSpvLTj8yKAVQJIUasSBEB6/BRS7K+9U/UsQ10IASVDIiAMhbC3LVfHVREo8RpppkCKFAKIG/7PLqF5oKkTvg8ZyPxbu2A/WVyY81wTSmuSjrHdRmsPMFAvQ0RCZ7qIEiWL0A4sJUZ0xRyowAAAAAElFTkSuQmCC" alt="parse-from-clipboard"></a>
           </div>
         </div>
     </section>
@@ -77,7 +77,7 @@
         <div class="grid grid-cols-1 md:grid-cols-1 gap-10 2xl:grid-cols-3 xl:grid-cols-2 ml-10 mr-10">
           <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow rounded-xl ele hide">
             <div class="h-auto w-auto">
-              <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="../Images/Intro.png" alt="" />
+              <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="Images/Intro.png" alt="" />
             </div>
             <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
             <div class="absolute inset-0 flex translate-y-[58%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
@@ -88,7 +88,7 @@
           </div>
           <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-xl ele hide">
             <div class="h-full w-auto">
-              <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="../Images/Responsive.png" alt="" />
+              <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="Images/Responsive.png" alt="" />
             </div>
             <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
             <div class="absolute inset-0 flex translate-y-[62%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
@@ -99,7 +99,7 @@
           </div>
           <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-xl ele hide">
             <div class="h-full w-auto">
-              <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="../Images/cinema.png" alt="" />
+              <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="Images/cinema.png" alt="" />
             </div>
             <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
             <div class="absolute inset-0 flex translate-y-[70%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
@@ -110,7 +110,7 @@
           </div>
           <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-xl ele hide">
           <div class="h-full w-auto">
-            <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="../Images/morpion.png" alt="" />
+            <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="Images/morpion.png" alt="" />
           </div>
           <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
           <div class="absolute inset-0 flex translate-y-[60%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
@@ -121,7 +121,7 @@
         </div>
         <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-xl ele hide">
           <div class="h-full w-auto">
-            <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="../Images/Puissance4.png" alt="" />
+            <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="Images/Puissance4.png" alt="" />
           </div>
           <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
           <div class="absolute inset-0 flex translate-y-[60%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
@@ -132,7 +132,7 @@
         </div>
         <div class="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30 rounded-xl ele hide">
           <div class="h-full w-auto">
-            <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="../Images/combined-croped.png" alt="" />
+            <img class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-110" src="Images/combined-croped.png" alt="" />
           </div>
           <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
           <div class="absolute inset-0 flex translate-y-[61%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
